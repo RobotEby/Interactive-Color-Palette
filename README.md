@@ -1,18 +1,49 @@
-# Interactive-Color-Palette
-Este repositório apresenta uma aplicação simples e intuitiva que permite aos usuários explorar e aplicar uma paleta de cores personalizada. A principal funcionalidade do projeto é possibilitar a seleção de cores definidas e a pintura de quadrados brancos com essas cores.
+# Pixel Art Studio 🎨
 
-## Recursos
+Um editor de pixel art moderno com múltiplas funcionalidades, desenvolvido com HTML5, CSS3 e JavaScript puro.
 
-- **Seleção de Cores:** Escolha entre uma variedade de cores definidas na paleta.
-- **Pintura de Quadrados:** Aplique a cor selecionada aos quadrados brancos na interface.
-- **Interface Intuitiva:** Navegação fácil e interação fluida para uma experiência de usuário agradável.
+## Clone o repositório
+git clone https://github.com/RobotEby/Interactive-Color-Palette.git
 
-## Como Funciona
+## Instale as dependências (apenas http-server)
+npm install -g http-server
 
-1. **Escolha a Cor:** Utilize a paleta de cores para selecionar a cor desejada.
-2. **Pinte os Quadrados:** Clique nos quadrados brancos para preenchê-los com a cor selecionada.
+## Execute
+http-server
 
-## Tecnologias Utilizadas
+## ✨ Funcionalidades
 
-- **HTML/CSS:** Estrutura e estilo da interface.
-- **JavaScript:** Lógica para interação e manipulação das cores e quadrados.
+- **Múltiplas Paletas de Cores**
+  - Básica, Pastel e Neon
+  - 8 cores por paleta
+- **Quadro Dinâmico**
+  - Tamanho personalizável (5x5 até 50x50)
+  - Grid responsivo
+- **Gestão de Projetos**
+  - Salvar/Carregar no localStorage
+  - Exportar para PNG
+- **Ferramentas**
+  - Limpeza total do quadro
+  - Seleção de cores intuitiva
+  - Feedback visual de interações
+
+## 🚀 Como Usar
+
+1. **Seleção de Cores**
+   - Clique em qualquer cor da paleta ativa
+   - Cor selecionada terá um destaque especial
+
+2. **Pintura**
+   - Clique em pixels para pintar
+   - Clique novamente para alterar a cor
+
+3. **Tamanho do Quadro**
+   ```javascript
+   Digite o tamanho desejado (ex: 16)
+   Clique em "Aplicar Tamanho"
+
+
+### Desenvolvido por: [RobotEby - Kerlon Amaral]
+
+#### Última Atualização: 16/07/2024
+#### Nova Atualização: 28/04/2025
