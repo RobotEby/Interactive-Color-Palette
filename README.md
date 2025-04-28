@@ -2,14 +2,7 @@
 
 Um editor de pixel art moderno com múltiplas funcionalidades, desenvolvido com HTML5, CSS3 e JavaScript puro.
 
-## Clone o repositório
-git clone https://github.com/RobotEby/Interactive-Color-Palette.git
-
-## Instale as dependências (apenas http-server)
-npm install -g http-server
-
-## Execute
-http-server
+## ⚡ | Acessa já e comece a pintar clicando [Aqui](https://pixel-art-studio.vercel.app/)
 
 ## ✨ Funcionalidades
 
@@ -26,22 +19,6 @@ http-server
   - Limpeza total do quadro
   - Seleção de cores intuitiva
   - Feedback visual de interações
-
-## 🚀 Como Usar
-
-1. **Seleção de Cores**
-   - Clique em qualquer cor da paleta ativa
-   - Cor selecionada terá um destaque especial
-
-2. **Pintura**
-   - Clique em pixels para pintar
-   - Clique novamente para alterar a cor
-
-3. **Tamanho do Quadro**
-   ```javascript
-   Digite o tamanho desejado (ex: 16)
-   Clique em "Aplicar Tamanho"
-
 
 ### Desenvolvido por: [RobotEby - Kerlon Amaral]
 
